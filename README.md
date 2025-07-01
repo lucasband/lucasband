@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou desenvolvedor com mais de 4 anos de experiência em tecnologia, atuando por mais de 2 anos como Front-End com Angular e 1 ano e meio com soluções em Cloud.<br><br>Durante minha jornada com Angular, participei da construção de aplicações escaláveis, responsivas e com foco na experiência do usuário, utilizando boas práticas como lazy loading, modularização e integração com APIs REST.<br><br>Nos últimos anos, aprofundei meus conhecimentos em Cloud Computing, atuando com ambientes em nuvem (como AWS, Azure, Huawei cloud).<br><br>Atualmente, busco projetos que unam o melhor dos dois mundos: desenvolvimento moderno de interfaces e tecnologias em nuvem, sempre com foco em performance, escalabilidade e boas práticas de engenharia de software.</p>
+<p align="left">Sou desenvolvedor com mais de 4 anos de experiência em tecnologia, atuando como Front-End com Angular e com soluções em Cloud.<br><br>Durante minha jornada com Angular, participei da construção de aplicações escaláveis, responsivas e com foco na experiência do usuário, utilizando boas práticas como lazy loading, modularização e integração com APIs REST.<br><br>Nos últimos anos, aprofundei meus conhecimentos em Cloud Computing, atuando com ambientes em nuvem (como AWS, Azure, Huawei cloud).<br><br>Atualmente, busco projetos que unam o melhor dos dois mundos: desenvolvimento moderno de interfaces e tecnologias em nuvem, sempre com foco em performance, escalabilidade e boas práticas de engenharia de software.</p>
 
 ###
 
